@@ -1,0 +1,11 @@
+﻿body {
+}
+.box.style1 .image img {
+    width:100%;
+}
+.myPhoto{
+    
+    max-height:200px;
+    max-width:150px;
+    border-radius:60px;
+}
