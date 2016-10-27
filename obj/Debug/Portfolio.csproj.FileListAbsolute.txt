@@ -31,3 +31,5 @@ C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio\b
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio\obj\Debug\Portfolio.csprojResolveAssemblyReference.cache
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio\obj\Debug\Portfolio.dll
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Portfolio\Portfolio\obj\Debug\Portfolio.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ESchulstad.github.io\obj\Debug\Portfolio.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ESchulstad.github.io\obj\Debug\Portfolio.pdb
